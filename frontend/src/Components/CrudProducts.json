@@ -1,0 +1,802 @@
+[
+  {
+    "id": "101",
+    "name": "Wireless Headphones 2",
+    "description": "Noise-canceling over-ear headphones with 40-hour battery life.",
+    "quantity": "11",
+    "price": "468",
+    "mfgDate": "2023-02-14"
+  },
+  {
+    "id": "102",
+    "name": "Wireless Headphones 6",
+    "description": "Noise-canceling over-ear headphones with 40-hour battery life.",
+    "quantity": "44",
+    "price": "317",
+    "mfgDate": "2023-12-11"
+  },
+  {
+    "id": "103",
+    "name": "Smartphone X 10",
+    "description": "Latest model with an advanced camera and AI-powered features.",
+    "quantity": "6",
+    "price": "882",
+    "mfgDate": "2023-12-12"
+  },
+  {
+    "id": "104",
+    "name": "Smartwatch Pro 6",
+    "description": "Water-resistant smartwatch with health-tracking features.",
+    "quantity": "10",
+    "price": "328",
+    "mfgDate": "2023-10-11"
+  },
+  {
+    "id": "105",
+    "name": "Wireless Headphones 10",
+    "description": "Noise-canceling over-ear headphones with 40-hour battery life.",
+    "quantity": "19",
+    "price": "437",
+    "mfgDate": "2023-04-13"
+  },
+  {
+    "id": "106",
+    "name": "Smartphone X 10",
+    "description": "Latest model with an advanced camera and AI-powered features.",
+    "quantity": "15",
+    "price": "860",
+    "mfgDate": "2023-04-18"
+  },
+  {
+    "id": "107",
+    "name": "Smartwatch Pro 9",
+    "description": "Water-resistant smartwatch with health-tracking features.",
+    "quantity": "20",
+    "price": "294",
+    "mfgDate": "2023-01-13"
+  },
+  {
+    "id": "108",
+    "name": "Gaming Laptop 5",
+    "description": "High-performance laptop with RTX graphics and 16GB RAM.",
+    "quantity": "35",
+    "price": "1281",
+    "mfgDate": "2023-01-07"
+  },
+  {
+    "id": "109",
+    "name": "Smartwatch Pro 2",
+    "description": "Water-resistant smartwatch with health-tracking features.",
+    "quantity": "6",
+    "price": "378",
+    "mfgDate": "2023-03-16"
+  },
+  {
+    "id": "110",
+    "name": "Smartphone X 5",
+    "description": "Latest model with an advanced camera and AI-powered features.",
+    "quantity": "25",
+    "price": "803",
+    "mfgDate": "2023-10-14"
+  },
+  {
+    "id": "111",
+    "name": "Wireless Headphones 1",
+    "description": "Noise-canceling over-ear headphones with 40-hour battery life.",
+    "quantity": "28",
+    "price": "494",
+    "mfgDate": "2023-04-22"
+  },
+  {
+    "id": "112",
+    "name": "Portable Speaker 6",
+    "description": "Bluetooth speaker with deep bass and 24-hour battery backup.",
+    "quantity": "9",
+    "price": "172",
+    "mfgDate": "2023-07-22"
+  },
+  {
+    "id": "113",
+    "name": "Smartwatch Pro 9",
+    "description": "Water-resistant smartwatch with health-tracking features.",
+    "quantity": "26",
+    "price": "378",
+    "mfgDate": "2023-02-13"
+  },
+  {
+    "id": "114",
+    "name": "Gaming Laptop 1",
+    "description": "High-performance laptop with RTX graphics and 16GB RAM.",
+    "quantity": "47",
+    "price": "1312",
+    "mfgDate": "2023-06-23"
+  },
+  {
+    "id": "115",
+    "name": "Wireless Headphones 9",
+    "description": "Noise-canceling over-ear headphones with 40-hour battery life.",
+    "quantity": "37",
+    "price": "264",
+    "mfgDate": "2023-12-03"
+  },
+  {
+    "id": "116",
+    "name": "Smartphone X 2",
+    "description": "Latest model with an advanced camera and AI-powered features.",
+    "quantity": "15",
+    "price": "932",
+    "mfgDate": "2023-03-26"
+  },
+  {
+    "id": "117",
+    "name": "Gaming Laptop 4",
+    "description": "High-performance laptop with RTX graphics and 16GB RAM.",
+    "quantity": "18",
+    "price": "1435",
+    "mfgDate": "2023-06-11"
+  },
+  {
+    "id": "118",
+    "name": "Wireless Headphones 2",
+    "description": "Noise-canceling over-ear headphones with 40-hour battery life.",
+    "quantity": "30",
+    "price": "354",
+    "mfgDate": "2023-10-10"
+  },
+  {
+    "id": "119",
+    "name": "Smartwatch Pro 1",
+    "description": "Water-resistant smartwatch with health-tracking features.",
+    "quantity": "8",
+    "price": "384",
+    "mfgDate": "2023-08-17"
+  },
+  {
+    "id": "120",
+    "name": "Portable Speaker 10",
+    "description": "Bluetooth speaker with deep bass and 24-hour battery backup.",
+    "quantity": "8",
+    "price": "243",
+    "mfgDate": "2023-04-26"
+  },
+  {
+    "id": "121",
+    "name": "Portable Speaker 8",
+    "description": "Bluetooth speaker with deep bass and 24-hour battery backup.",
+    "quantity": "29",
+    "price": "218",
+    "mfgDate": "2023-02-24"
+  },
+  {
+    "id": "122",
+    "name": "Gaming Laptop 8",
+    "description": "High-performance laptop with RTX graphics and 16GB RAM.",
+    "quantity": "10",
+    "price": "1445",
+    "mfgDate": "2023-04-24"
+  },
+  {
+    "id": "123",
+    "name": "Smartwatch Pro 1",
+    "description": "Water-resistant smartwatch with health-tracking features.",
+    "quantity": "46",
+    "price": "254",
+    "mfgDate": "2023-06-09"
+  },
+  {
+    "id": "124",
+    "name": "Wireless Headphones 6",
+    "description": "Noise-canceling over-ear headphones with 40-hour battery life.",
+    "quantity": "21",
+    "price": "263",
+    "mfgDate": "2023-11-21"
+  },
+  {
+    "id": "125",
+    "name": "Smartwatch Pro 1",
+    "description": "Water-resistant smartwatch with health-tracking features.",
+    "quantity": "30",
+    "price": "248",
+    "mfgDate": "2023-08-13"
+  },
+  {
+    "id": "126",
+    "name": "Gaming Laptop 1",
+    "description": "High-performance laptop with RTX graphics and 16GB RAM.",
+    "quantity": "20",
+    "price": "1394",
+    "mfgDate": "2023-07-26"
+  },
+  {
+    "id": "127",
+    "name": "Gaming Laptop 1",
+    "description": "High-performance laptop with RTX graphics and 16GB RAM.",
+    "quantity": "20",
+    "price": "1410",
+    "mfgDate": "2023-11-15"
+  },
+  {
+    "id": "128",
+    "name": "Smartwatch Pro 3",
+    "description": "Water-resistant smartwatch with health-tracking features.",
+    "quantity": "20",
+    "price": "182",
+    "mfgDate": "2023-02-01"
+  },
+  {
+    "id": "129",
+    "name": "Smartwatch Pro 10",
+    "description": "Water-resistant smartwatch with health-tracking features.",
+    "quantity": "48",
+    "price": "297",
+    "mfgDate": "2023-11-15"
+  },
+  {
+    "id": "130",
+    "name": "Gaming Laptop 5",
+    "description": "High-performance laptop with RTX graphics and 16GB RAM.",
+    "quantity": "16",
+    "price": "1419",
+    "mfgDate": "2023-02-11"
+  },
+  {
+    "id": "131",
+    "name": "Smartwatch Pro 9",
+    "description": "Water-resistant smartwatch with health-tracking features.",
+    "quantity": "38",
+    "price": "207",
+    "mfgDate": "2023-07-19"
+  },
+  {
+    "id": "132",
+    "name": "Portable Speaker 8",
+    "description": "Bluetooth speaker with deep bass and 24-hour battery backup.",
+    "quantity": "29",
+    "price": "301",
+    "mfgDate": "2023-04-06"
+  },
+  {
+    "id": "133",
+    "name": "Smartwatch Pro 9",
+    "description": "Water-resistant smartwatch with health-tracking features.",
+    "quantity": "49",
+    "price": "267",
+    "mfgDate": "2023-05-04"
+  },
+  {
+    "id": "134",
+    "name": "Smartwatch Pro 1",
+    "description": "Water-resistant smartwatch with health-tracking features.",
+    "quantity": "38",
+    "price": "360",
+    "mfgDate": "2023-12-30"
+  },
+  {
+    "id": "135",
+    "name": "Wireless Headphones 5",
+    "description": "Noise-canceling over-ear headphones with 40-hour battery life.",
+    "quantity": "25",
+    "price": "412",
+    "mfgDate": "2023-02-05"
+  },
+  {
+    "id": "136",
+    "name": "Portable Speaker 10",
+    "description": "Bluetooth speaker with deep bass and 24-hour battery backup.",
+    "quantity": "29",
+    "price": "283",
+    "mfgDate": "2023-08-27"
+  },
+  {
+    "id": "137",
+    "name": "Gaming Laptop 5",
+    "description": "High-performance laptop with RTX graphics and 16GB RAM.",
+    "quantity": "35",
+    "price": "1452",
+    "mfgDate": "2023-09-03"
+  },
+  {
+    "id": "138",
+    "name": "Smartwatch Pro 5",
+    "description": "Water-resistant smartwatch with health-tracking features.",
+    "quantity": "50",
+    "price": "309",
+    "mfgDate": "2023-01-21"
+  },
+  {
+    "id": "139",
+    "name": "Portable Speaker 4",
+    "description": "Bluetooth speaker with deep bass and 24-hour battery backup.",
+    "quantity": "44",
+    "price": "215",
+    "mfgDate": "2023-05-15"
+  },
+  {
+    "id": "140",
+    "name": "Gaming Laptop 4",
+    "description": "High-performance laptop with RTX graphics and 16GB RAM.",
+    "quantity": "33",
+    "price": "1254",
+    "mfgDate": "2023-02-26"
+  },
+  {
+    "id": "141",
+    "name": "Smartwatch Pro 2",
+    "description": "Water-resistant smartwatch with health-tracking features.",
+    "quantity": "44",
+    "price": "238",
+    "mfgDate": "2023-02-01"
+  },
+  {
+    "id": "142",
+    "name": "Smartwatch Pro 7",
+    "description": "Water-resistant smartwatch with health-tracking features.",
+    "quantity": "9",
+    "price": "381",
+    "mfgDate": "2023-04-23"
+  },
+  {
+    "id": "143",
+    "name": "Gaming Laptop 1",
+    "description": "High-performance laptop with RTX graphics and 16GB RAM.",
+    "quantity": "49",
+    "price": "1386",
+    "mfgDate": "2023-09-18"
+  },
+  {
+    "id": "144",
+    "name": "Smartwatch Pro 4",
+    "description": "Water-resistant smartwatch with health-tracking features.",
+    "quantity": "16",
+    "price": "325",
+    "mfgDate": "2023-09-28"
+  },
+  {
+    "id": "145",
+    "name": "Smartphone X 10",
+    "description": "Latest model with an advanced camera and AI-powered features.",
+    "quantity": "48",
+    "price": "768",
+    "mfgDate": "2023-05-11"
+  },
+  {
+    "id": "146",
+    "name": "Gaming Laptop 9",
+    "description": "High-performance laptop with RTX graphics and 16GB RAM.",
+    "quantity": "7",
+    "price": "1405",
+    "mfgDate": "2023-10-20"
+  },
+  {
+    "id": "147",
+    "name": "Smartphone X 3",
+    "description": "Latest model with an advanced camera and AI-powered features.",
+    "quantity": "19",
+    "price": "852",
+    "mfgDate": "2023-01-11"
+  },
+  {
+    "id": "148",
+    "name": "Portable Speaker 2",
+    "description": "Bluetooth speaker with deep bass and 24-hour battery backup.",
+    "quantity": "39",
+    "price": "187",
+    "mfgDate": "2023-07-29"
+  },
+  {
+    "id": "149",
+    "name": "Wireless Headphones 6",
+    "description": "Noise-canceling over-ear headphones with 40-hour battery life.",
+    "quantity": "12",
+    "price": "496",
+    "mfgDate": "2023-07-20"
+  },
+  {
+    "id": "150",
+    "name": "Smartphone X 3",
+    "description": "Latest model with an advanced camera and AI-powered features.",
+    "quantity": "5",
+    "price": "990",
+    "mfgDate": "2023-08-29"
+  },
+  {
+    "id": "151",
+    "name": "Smartphone X 5",
+    "description": "Latest model with an advanced camera and AI-powered features.",
+    "quantity": "33",
+    "price": "974",
+    "mfgDate": "2023-07-20"
+  },
+  {
+    "id": "152",
+    "name": "Smartphone X 2",
+    "description": "Latest model with an advanced camera and AI-powered features.",
+    "quantity": "22",
+    "price": "819",
+    "mfgDate": "2023-07-09"
+  },
+  {
+    "id": "153",
+    "name": "Smartwatch Pro 1",
+    "description": "Water-resistant smartwatch with health-tracking features.",
+    "quantity": "22",
+    "price": "311",
+    "mfgDate": "2023-11-24"
+  },
+  {
+    "id": "154",
+    "name": "Portable Speaker 4",
+    "description": "Bluetooth speaker with deep bass and 24-hour battery backup.",
+    "quantity": "15",
+    "price": "283",
+    "mfgDate": "2023-02-11"
+  },
+  {
+    "id": "155",
+    "name": "Portable Speaker 9",
+    "description": "Bluetooth speaker with deep bass and 24-hour battery backup.",
+    "quantity": "16",
+    "price": "194",
+    "mfgDate": "2023-05-27"
+  },
+  {
+    "id": "156",
+    "name": "Wireless Headphones 9",
+    "description": "Noise-canceling over-ear headphones with 40-hour battery life.",
+    "quantity": "12",
+    "price": "338",
+    "mfgDate": "2023-04-02"
+  },
+  {
+    "id": "157",
+    "name": "Portable Speaker 9",
+    "description": "Bluetooth speaker with deep bass and 24-hour battery backup.",
+    "quantity": "31",
+    "price": "222",
+    "mfgDate": "2023-02-19"
+  },
+  {
+    "id": "158",
+    "name": "Portable Speaker 4",
+    "description": "Bluetooth speaker with deep bass and 24-hour battery backup.",
+    "quantity": "28",
+    "price": "124",
+    "mfgDate": "2023-10-26"
+  },
+  {
+    "id": "159",
+    "name": "Gaming Laptop 6",
+    "description": "High-performance laptop with RTX graphics and 16GB RAM.",
+    "quantity": "11",
+    "price": "1450",
+    "mfgDate": "2023-04-12"
+  },
+  {
+    "id": "160",
+    "name": "Smartwatch Pro 2",
+    "description": "Water-resistant smartwatch with health-tracking features.",
+    "quantity": "41",
+    "price": "169",
+    "mfgDate": "2023-06-08"
+  },
+  {
+    "id": "161",
+    "name": "Portable Speaker 5",
+    "description": "Bluetooth speaker with deep bass and 24-hour battery backup.",
+    "quantity": "45",
+    "price": "175",
+    "mfgDate": "2023-10-15"
+  },
+  {
+    "id": "162",
+    "name": "Portable Speaker 2",
+    "description": "Bluetooth speaker with deep bass and 24-hour battery backup.",
+    "quantity": "33",
+    "price": "212",
+    "mfgDate": "2023-03-18"
+  },
+  {
+    "id": "163",
+    "name": "Wireless Headphones 2",
+    "description": "Noise-canceling over-ear headphones with 40-hour battery life.",
+    "quantity": "15",
+    "price": "448",
+    "mfgDate": "2023-12-24"
+  },
+  {
+    "id": "164",
+    "name": "Wireless Headphones 2",
+    "description": "Noise-canceling over-ear headphones with 40-hour battery life.",
+    "quantity": "45",
+    "price": "348",
+    "mfgDate": "2023-11-28"
+  },
+  {
+    "id": "165",
+    "name": "Smartwatch Pro 8",
+    "description": "Water-resistant smartwatch with health-tracking features.",
+    "quantity": "19",
+    "price": "370",
+    "mfgDate": "2023-12-18"
+  },
+  {
+    "id": "166",
+    "name": "Wireless Headphones 4",
+    "description": "Noise-canceling over-ear headphones with 40-hour battery life.",
+    "quantity": "21",
+    "price": "336",
+    "mfgDate": "2023-02-28"
+  },
+  {
+    "id": "167",
+    "name": "Wireless Headphones 10",
+    "description": "Noise-canceling over-ear headphones with 40-hour battery life.",
+    "quantity": "5",
+    "price": "259",
+    "mfgDate": "2023-05-16"
+  },
+  {
+    "id": "168",
+    "name": "Wireless Headphones 7",
+    "description": "Noise-canceling over-ear headphones with 40-hour battery life.",
+    "quantity": "35",
+    "price": "333",
+    "mfgDate": "2023-09-26"
+  },
+  {
+    "id": "169",
+    "name": "Portable Speaker 10",
+    "description": "Bluetooth speaker with deep bass and 24-hour battery backup.",
+    "quantity": "9",
+    "price": "221",
+    "mfgDate": "2023-10-28"
+  },
+  {
+    "id": "170",
+    "name": "Smartwatch Pro 4",
+    "description": "Water-resistant smartwatch with health-tracking features.",
+    "quantity": "10",
+    "price": "309",
+    "mfgDate": "2023-05-30"
+  },
+  {
+    "id": "171",
+    "name": "Smartwatch Pro 8",
+    "description": "Water-resistant smartwatch with health-tracking features.",
+    "quantity": "12",
+    "price": "252",
+    "mfgDate": "2023-09-04"
+  },
+  {
+    "id": "172",
+    "name": "Gaming Laptop 8",
+    "description": "High-performance laptop with RTX graphics and 16GB RAM.",
+    "quantity": "36",
+    "price": "1316",
+    "mfgDate": "2023-06-23"
+  },
+  {
+    "id": "173",
+    "name": "Smartphone X 4",
+    "description": "Latest model with an advanced camera and AI-powered features.",
+    "quantity": "31",
+    "price": "988",
+    "mfgDate": "2023-04-05"
+  },
+  {
+    "id": "174",
+    "name": "Portable Speaker 2",
+    "description": "Bluetooth speaker with deep bass and 24-hour battery backup.",
+    "quantity": "39",
+    "price": "289",
+    "mfgDate": "2023-03-28"
+  },
+  {
+    "id": "175",
+    "name": "Smartphone X 3",
+    "description": "Latest model with an advanced camera and AI-powered features.",
+    "quantity": "48",
+    "price": "833",
+    "mfgDate": "2023-12-05"
+  },
+  {
+    "id": "176",
+    "name": "Wireless Headphones 6",
+    "description": "Noise-canceling over-ear headphones with 40-hour battery life.",
+    "quantity": "27",
+    "price": "470",
+    "mfgDate": "2023-11-02"
+  },
+  {
+    "id": "177",
+    "name": "Portable Speaker 5",
+    "description": "Bluetooth speaker with deep bass and 24-hour battery backup.",
+    "quantity": "31",
+    "price": "171",
+    "mfgDate": "2023-05-20"
+  },
+  {
+    "id": "178",
+    "name": "Portable Speaker 3",
+    "description": "Bluetooth speaker with deep bass and 24-hour battery backup.",
+    "quantity": "30",
+    "price": "340",
+    "mfgDate": "2023-10-22"
+  },
+  {
+    "id": "179",
+    "name": "Portable Speaker 10",
+    "description": "Bluetooth speaker with deep bass and 24-hour battery backup.",
+    "quantity": "39",
+    "price": "125",
+    "mfgDate": "2023-09-02"
+  },
+  {
+    "id": "180",
+    "name": "Smartwatch Pro 3",
+    "description": "Water-resistant smartwatch with health-tracking features.",
+    "quantity": "11",
+    "price": "253",
+    "mfgDate": "2023-01-23"
+  },
+  {
+    "id": "181",
+    "name": "Smartwatch Pro 7",
+    "description": "Water-resistant smartwatch with health-tracking features.",
+    "quantity": "24",
+    "price": "312",
+    "mfgDate": "2023-12-12"
+  },
+  {
+    "id": "182",
+    "name": "Portable Speaker 4",
+    "description": "Bluetooth speaker with deep bass and 24-hour battery backup.",
+    "quantity": "40",
+    "price": "104",
+    "mfgDate": "2023-05-31"
+  },
+  {
+    "id": "183",
+    "name": "Wireless Headphones 6",
+    "description": "Noise-canceling over-ear headphones with 40-hour battery life.",
+    "quantity": "30",
+    "price": "389",
+    "mfgDate": "2023-09-23"
+  },
+  {
+    "id": "184",
+    "name": "Smartphone X 3",
+    "description": "Latest model with an advanced camera and AI-powered features.",
+    "quantity": "49",
+    "price": "787",
+    "mfgDate": "2023-03-13"
+  },
+  {
+    "id": "185",
+    "name": "Smartphone X 9",
+    "description": "Latest model with an advanced camera and AI-powered features.",
+    "quantity": "24",
+    "price": "995",
+    "mfgDate": "2023-09-19"
+  },
+  {
+    "id": "186",
+    "name": "Portable Speaker 3",
+    "description": "Bluetooth speaker with deep bass and 24-hour battery backup.",
+    "quantity": "6",
+    "price": "235",
+    "mfgDate": "2023-03-23"
+  },
+  {
+    "id": "187",
+    "name": "Portable Speaker 6",
+    "description": "Bluetooth speaker with deep bass and 24-hour battery backup.",
+    "quantity": "19",
+    "price": "172",
+    "mfgDate": "2023-10-02"
+  },
+  {
+    "id": "188",
+    "name": "Smartphone X 10",
+    "description": "Latest model with an advanced camera and AI-powered features.",
+    "quantity": "49",
+    "price": "861",
+    "mfgDate": "2023-06-09"
+  },
+  {
+    "id": "189",
+    "name": "Smartphone X 9",
+    "description": "Latest model with an advanced camera and AI-powered features.",
+    "quantity": "17",
+    "price": "793",
+    "mfgDate": "2023-03-15"
+  },
+  {
+    "id": "190",
+    "name": "Smartwatch Pro 9",
+    "description": "Water-resistant smartwatch with health-tracking features.",
+    "quantity": "34",
+    "price": "345",
+    "mfgDate": "2023-11-22"
+  },
+  {
+    "id": "191",
+    "name": "Wireless Headphones 9",
+    "description": "Noise-canceling over-ear headphones with 40-hour battery life.",
+    "quantity": "40",
+    "price": "446",
+    "mfgDate": "2023-12-13"
+  },
+  {
+    "id": "192",
+    "name": "Smartphone X 3",
+    "description": "Latest model with an advanced camera and AI-powered features.",
+    "quantity": "27",
+    "price": "871",
+    "mfgDate": "2023-08-21"
+  },
+  {
+    "id": "193",
+    "name": "Portable Speaker 6",
+    "description": "Bluetooth speaker with deep bass and 24-hour battery backup.",
+    "quantity": "16",
+    "price": "234",
+    "mfgDate": "2023-08-08"
+  },
+  {
+    "id": "194",
+    "name": "Wireless Headphones 8",
+    "description": "Noise-canceling over-ear headphones with 40-hour battery life.",
+    "quantity": "6",
+    "price": "291",
+    "mfgDate": "2023-04-21"
+  },
+  {
+    "id": "195",
+    "name": "Smartwatch Pro 2",
+    "description": "Water-resistant smartwatch with health-tracking features.",
+    "quantity": "24",
+    "price": "226",
+    "mfgDate": "2023-07-25"
+  },
+  {
+    "id": "196",
+    "name": "Wireless Headphones 2",
+    "description": "Noise-canceling over-ear headphones with 40-hour battery life.",
+    "quantity": "14",
+    "price": "400",
+    "mfgDate": "2023-09-07"
+  },
+  {
+    "id": "197",
+    "name": "Portable Speaker 2",
+    "description": "Bluetooth speaker with deep bass and 24-hour battery backup.",
+    "quantity": "34",
+    "price": "320",
+    "mfgDate": "2023-07-14"
+  },
+  {
+    "id": "198",
+    "name": "Smartphone X 1",
+    "description": "Latest model with an advanced camera and AI-powered features.",
+    "quantity": "9",
+    "price": "982",
+    "mfgDate": "2023-04-12"
+  },
+  {
+    "id": "199",
+    "name": "Smartphone X 9",
+    "description": "Latest model with an advanced camera and AI-powered features.",
+    "quantity": "49",
+    "price": "799",
+    "mfgDate": "2023-10-03"
+  },
+  {
+    "id": "200",
+    "name": "Smartphone X 2",
+    "description": "Latest model with an advanced camera and AI-powered features.",
+    "quantity": "38",
+    "price": "840",
+    "mfgDate": "2023-08-14"
+  }
+]

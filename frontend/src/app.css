@@ -1,0 +1,130 @@
+/* ==================== BASE ==================== */
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+  background: linear-gradient(to bottom right, #a678f4, #7053d9);
+}
+
+.app-wrapper {
+  min-height: 100vh;
+  background: linear-gradient(to bottom right, #a678f4, #7053d9);
+  color: white;
+}
+
+/* ==================== HERO SECTION ==================== */
+.home-hero-section {
+  height: 100vh;
+  background: linear-gradient(135deg, #a678f4, #7053d9);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.home-hero-content {
+  padding: 20px;
+  z-index: 2;
+}
+
+.hero-title {
+  font-size: clamp(2.5rem, 6vw, 3.5rem);
+  font-weight: 800;
+  margin-bottom: 1.5rem;
+  color: #ffffff;
+}
+
+.hero-subtitle {
+  font-size: 1.2rem;
+  max-width: 700px;
+  margin: 0 auto 2.5rem;
+  line-height: 1.7;
+  color: #f3f0ff;
+}
+
+.hero-button {
+  font-size: 1rem;
+  padding: 14px 40px;
+  background: #ff6ec7;
+  color: white;
+  font-weight: 600;
+  border-radius: 30px;
+  transition: background 0.3s ease, transform 0.3s ease;
+  box-shadow: 0 4px 20px rgba(255, 110, 199, 0.5);
+}
+
+.hero-button:hover {
+  background: #7053d9;
+  transform: scale(1.05);
+}
+
+/* ==================== FEATURES SECTION ==================== */
+.features-section {
+  min-height: 100vh;
+  background: linear-gradient(to bottom right, #a678f4, #7053d9);
+  padding: 80px 0;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.feature-card {
+  width: 280px;
+  text-align: center;
+  padding: 28px;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.07);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 12px 50px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.feature-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 18px 60px rgba(0, 0, 0, 0.3);
+}
+
+.feature-title {
+  font-weight: 700;
+  font-size: 1.15rem;
+  margin-bottom: 10px;
+  color: #ffffff;
+}
+
+.feature-description {
+  font-size: 0.95rem;
+  color: #f0f0f0;
+  line-height: 1.5;
+}
+
+/* ==================== LOADER ==================== */
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+/* ==================== SCROLLBAR (Optional Premium Styling) ==================== */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #a678f4;
+  border-radius: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #2c2c54;
+}

@@ -1,0 +1,60 @@
+/* Navbar.css */
+
+.navbar-button {
+  transition: all 0.3s ease;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+}
+
+.navbar-button:hover {
+  padding-left: 24px !important;
+  background-color: rgba(238, 220, 255, 0.1) !important;
+  border-left: 3px solid #eedcff;
+  color: #ffffff;
+  transition: all 0.3s ease;
+}
+
+.navbar-title {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.4rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+  background: linear-gradient(to right, #ffffff, #eedcff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-transform: uppercase;
+  animation: shimmer 3s infinite linear;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -300px 0;
+  }
+  100% {
+    background-position: 300px 0;
+  }
+}
+
+.navbar-button .MuiListItemIcon-root {
+  min-width: 40px;
+  transition: transform 0.3s ease;
+}
+
+.navbar-button:hover .MuiListItemIcon-root {
+  transform: scale(1.2);
+}
+
+.MuiDrawer-paper {
+  backdrop-filter: blur(12px) !important;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2) !important;
+  border-right: 1px solid rgba(255, 255, 255, 0.05) !important;
+}
+
+.navbar-glass-card {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 12px;
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 0 16px rgba(238, 220, 255, 0.1);
+}
