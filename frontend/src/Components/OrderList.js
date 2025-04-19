@@ -7,7 +7,7 @@ import {
 } from '@mui/material';
 import { Edit, Delete, AddShoppingCart, CheckCircle, Cancel } from '@mui/icons-material';
 
-const API_URL = process.env.REACT_APP_API_URL || 'http://latestdoorstep-backend-6.onrender.com/api/orders';
+const API_URL = process.env.REACT_APP_API_URL || 'https://doorstep-backend1.onrender.com/api/orders';
 
 const OrderList = () => {
   const [orders, setOrders] = useState([]);

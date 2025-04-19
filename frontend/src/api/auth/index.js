@@ -1,7 +1,7 @@
 // src/api/auth/index.js
 import axios from 'axios';
 
-const API_URL = process.env.REACT_APP_AUTH_API_URL || 'https://latestdoorstep-backend-6.onrender.com/api/v1/auth';
+const API_URL = process.env.REACT_APP_AUTH_API_URL || 'https://doorstep-backend1.onrender.com/api/v1/auth';
 
 export const registerUser = async (userData) => {
   try {

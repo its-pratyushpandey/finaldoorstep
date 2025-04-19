@@ -37,7 +37,7 @@ const FeedbackForm = () => {
     setMessage({ type: '', text: '' });
 
     try {
-      const res = await axios.post('http://latestdoorstep-backend-6.onrender.com/api/feedback/submit-feedback', formData);
+      const res = await axios.post('https://doorstep-backend1.onrender.com/api/feedback/submit-feedback', formData);
       setMessage({ type: 'success', text: res.data.message || 'Feedback submitted!' });
       setFormData({ name: '', email: '', feedback: '', category: '' });
     } catch (err) {

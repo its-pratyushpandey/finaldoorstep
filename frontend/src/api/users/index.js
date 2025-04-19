@@ -1,7 +1,7 @@
 // src/api/users/index.js
 import axios from 'axios';
 
-const API_URL = process.env.REACT_APP_USERS_API_URL || 'https://latestdoorstep-backend-6.onrender.com/api/v1/users';
+const API_URL = process.env.REACT_APP_USERS_API_URL || 'https://doorstep-backend1.onrender.com/api/v1/users';
 
 export const fetchUsers = async () => {
   try {

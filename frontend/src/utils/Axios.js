@@ -2,7 +2,7 @@
 import axios from 'axios';
 
 const instance = axios.create({
-  baseURL:  'https://latestdoorstep-backend-6.onrender.com/',
+  baseURL:  'https://doorstep-backend1.onrender.com/',
   withCredentials: true,  // optional if using cookies
 });
 

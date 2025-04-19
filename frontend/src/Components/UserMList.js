@@ -12,7 +12,7 @@ import {
 import MuiAlert from '@mui/material/Alert';
 import { motion } from "framer-motion";
 
-const API_URL = process.env.REACT_APP_USERS_API_URL || "http://latestdoorstep-backend-6.onrender.com/api/users";
+const API_URL = process.env.REACT_APP_USERS_API_URL || "https://doorstep-backend1.onrender.com/api/users";
 
 const UserMList = () => {
   const [users, setUsers] = useState([]);

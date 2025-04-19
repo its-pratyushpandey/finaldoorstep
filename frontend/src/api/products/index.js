@@ -1,7 +1,7 @@
 // src/api/products/index.js
 import axios from 'axios';
 
-const API_URL = process.env.REACT_APP_PRODUCTS_API_URL || 'https://latestdoorstep-backend-6.onrender.com/api/v1/products';
+const API_URL = process.env.REACT_APP_PRODUCTS_API_URL || 'https://doorstep-backend1.onrender.com/api/v1/products';
 
 export const fetchProducts = async () => {
   try {

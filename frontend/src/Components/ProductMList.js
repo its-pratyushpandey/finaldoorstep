@@ -12,7 +12,7 @@ import MuiAlert from '@mui/material/Alert';
 import { QRCodeCanvas } from 'qrcode.react';
 import { motion } from 'framer-motion';
 
-const API_URL = process.env.REACT_APP_PRODUCTS_API_URL || 'http://latestdoorstep-backend-6.onrender.com/api/products';
+const API_URL = process.env.REACT_APP_PRODUCTS_API_URL || 'https://doorstep-backend1.onrender.com/api/products';
 
 const SlideTransition = (props) => <Slide direction="up" {...props} />;
 
