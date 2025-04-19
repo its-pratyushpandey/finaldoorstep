@@ -1,4 +1,5 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
+import axios from 'axios';
 
 // AuthContext default values
 const AuthContext = createContext({
@@ -12,7 +13,7 @@ const AuthContext = createContext({
 });
 
 // ✅ Use environment variable from .env
-const API_BASE = process.env.REACT_APP_AUTH_API_URL;
+const API_BASE = `${process.env.REACT_APP_API_URL}/api/v1/auth`;
 
 export const AuthProvider = ({ children }) => {
   const [token, setToken] = useState(() => localStorage.getItem('token') || '');
@@ -87,16 +88,15 @@ export const AuthProvider = ({ children }) => {
   const login = async (credentials) => {
     setLoading(true);
     try {
-      const res = await fetch(`${API_BASE}/login`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(credentials),
+      const response = await axios.post(`${API_BASE}/login`, credentials, {
+        withCredentials: true,
+        headers: {
+          'Content-Type': 'application/json'
+        }
       });
 
-      const data = await res.json();
-      if (!res.ok) throw new Error(data.message || 'Login failed');
-
-      saveAuthData(data.token, data.user);
+      if (!response.data) throw new Error('Login failed');
+      saveAuthData(response.data.token, response.data.user);
     } catch (error) {
       console.error('Login error:', error.message);
       throw error;

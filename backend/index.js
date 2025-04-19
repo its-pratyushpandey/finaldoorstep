@@ -33,7 +33,6 @@ const {
   PORT = 5555,
   NODE_ENV = 'production',
   JWT_SECRET,
-  ALLOWED_ORIGINS = 'http://localhost:3000,https://figu-ehzmewxue-pratyush-kumar-pandeys-projects.vercel.app',
 } = process.env;
 
 // Ensure that MongoDB URI and JWT Secret are provided
@@ -48,11 +47,25 @@ app.use(compression());
 app.use(morgan(NODE_ENV === 'development' ? 'dev' : 'tiny'));
 
 // ✅ Proper CORS for frontend + vercel
+const ALLOWED_ORIGINS = [
+  'http://localhost:3000',
+  'https://doorstep-frontend1.onrender.com',
+  'https://doorstep-frontend1.onrender.com/'
+].join(',');
+
 app.use(cors({
-  origin: ALLOWED_ORIGINS.split(',').map(origin => origin.trim()),
+  origin: function(origin, callback) {
+    const origins = ALLOWED_ORIGINS.split(',').map(o => o.trim());
+    if (!origin || origins.indexOf(origin) !== -1) {
+      callback(null, true);
+    } else {
+      callback(new Error('Not allowed by CORS'));
+    }
+  },
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization'],
+  exposedHeaders: ['Content-Length', 'X-Foo', 'X-Bar'],
 }));
 
 // Rate limiting setup
