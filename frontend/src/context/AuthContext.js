@@ -13,7 +13,7 @@ const AuthContext = createContext({
 });
 
 // ✅ Use environment variable from .env
-const API_BASE = `${process.env.REACT_APP_API_URL}/api/v1/auth`;
+const API_BASE = process.env.REACT_APP_AUTH_API_URL;
 
 export const AuthProvider = ({ children }) => {
   const [token, setToken] = useState(() => localStorage.getItem('token') || '');
@@ -98,7 +98,7 @@ export const AuthProvider = ({ children }) => {
       if (!response.data) throw new Error('Login failed');
       saveAuthData(response.data.token, response.data.user);
     } catch (error) {
-      console.error('Login error:', error.message);
+      console.error('Login error:', error);
       throw error;
     } finally {
       setLoading(false);
